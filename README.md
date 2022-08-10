@@ -1,8 +1,6 @@
-# Basic Sample Hardhat Project
+# My Epic NFT
+Projeto criado no BootCamp (Crie sua própria coleção NFT) da comunidade Web3Dev. Consiste em um contrato que gera uma NFT com palavras aleatórias de animais diversos. 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
 
 ```shell
 npx hardhat accounts
